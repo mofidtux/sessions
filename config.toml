@@ -2,8 +2,8 @@
 base_url = "https://daradege.ir/kita-farsi"
 
 # The site title and description; used in feeds by default.
-title = "کیتا فارسی"
-description = "کیتا فارسی یک قالب زیبا، ساده و روان برای زولا است."
+title = "مفیدتاکس!"
+description = "نشست های نرم‌افزارآزاد مفید."
 
 # The default site author.
 author = "علی صفامنش"
@@ -71,8 +71,8 @@ social_image = "icons/github.svg"
 
 # The profile on home page.
 [extra.profile]
-name = "کیتا فارسی"
-bio = "کیتا فارسی یک قالب زیبا، ساده و روان برای زولا است."
+name = "مفیدتاکس!"
+bio = "خلاصه ای از نشست های نرم‌افزارآزاد در دبیرستان مفید."
 # The URL of avatar.
 avatar_url = "icons/github.svg"
 # Invert color in dark mode.
@@ -133,3 +133,4 @@ input_position = "top"
 theme = "light"
 lang = "en"
 loading = "lazy"
+
