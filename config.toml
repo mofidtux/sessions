@@ -74,7 +74,7 @@ social_image = "icons/github.svg"
 name = "مفیدتاکس!"
 bio = "خلاصه ای از نشست های نرم‌افزارآزاد در دبیرستان مفید."
 # The URL of avatar.
-avatar_url = "icons/github.svg"
+avatar_url = "images/logo.png"
 # Invert color in dark mode.
 avatar_invert = true
 
@@ -93,9 +93,6 @@ name = "rss"
 url = "$BASE_URL/atom.xml"
 
 # The top menu.
-[[extra.menu]]
-name = "پروژه‌ها"
-url = "$BASE_URL/projects"
 
 [[extra.menu]]
 name = "آرشیو"
@@ -106,8 +103,8 @@ name = "تگ‌ها"
 url = "$BASE_URL/tags"
 
 [[extra.menu]]
-name = "درباره"
-url = "$BASE_URL/about"
+name = "وب سایت رسمی"
+url = "https://mofidtux.ir"
 
 # The direction of the theme.
 [extra.direction]
