@@ -1,5 +1,5 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://daradege.ir/kita-farsi"
+base_url = "https://mofidtux.ir/sessions"
 
 # The site title and description; used in feeds by default.
 title = "مفیدتاکس!"
@@ -133,4 +133,5 @@ input_position = "top"
 theme = "light"
 lang = "en"
 loading = "lazy"
+
 
